@@ -1,0 +1,42 @@
+# Statements starting with '#' are ignored.
+# ";" Denotes end of line.
+# All variables are integers and can be named any lower-case letter a-z.
+# e.i.: "<name(a-z)> = <value/operator(s)>;"
+# Note that variable assignments don't follow order of operations.
+a = 10;
+b = 20;
+c = a + b;
+z = c;
+
+# IF statements are the following syntax: 
+# "if <variable/value> <double operator> <variable/value>:"
+# "<if statement body>"
+# "$"
+# The "$" sign denotes the end of the IF block.
+# Note that || and && Cannot be used.
+# ELIF and ELSE statements follow the same rules
+if a + b == c:
+	a = a * 
+	3;
+$
+elif a    - b > 0:
+	b = b + 10;
+$
+else:
+	c = 100;    
+$
+
+# LOOPs are the following syntax:
+# "loop <variable/value> <double operator> <variable/value>:"
+# The "$" sign denotes the end of the LOOP block.
+# "break" ends the loop.
+i = 5;
+loop i >= 0:
+	a = a - i;
+	i = i - 1;
+	if a < b:
+		i = 0;
+	$
+$
+
+#print a;
