@@ -10,7 +10,7 @@ For the class TCOM 2010 at KSU, one of the assignments was to make a hypothetica
 * Build an executor that then executes the tree built from the scanned code
 
 ## Contributers
-Daniel Tebor
-Ethan Hunt
-Justin Bull
-Mohammed Rehaan
+* Daniel Tebor
+* Ethan Hunt
+* Justin Bull
+* Mohammed Rehaan
